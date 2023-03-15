@@ -1,5 +1,9 @@
 [
   {
+    "package": "functiondepends",
+    "oncran": true
+  },
+  {
     "package": "r6methods",
     "oncran": true
   }

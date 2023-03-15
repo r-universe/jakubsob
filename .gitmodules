@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "functiondepends"]
+	path = functiondepends
+	url = https://github.com/jakubsob/functiondepends
+	shallow = true
+	registered = true
 [submodule "r6methods"]
 	path = r6methods
 	url = https://github.com/jakubsob/r6methods
