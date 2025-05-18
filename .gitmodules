@@ -8,6 +8,10 @@
 [submodule "functiondepends"]
 	path = functiondepends
 	url = https://github.com/jakubsob/functiondepends
+[submodule "muttest"]
+	path = muttest
+	url = https://github.com/jakubsob/muttest
+	registered = false
 [submodule "r6methods"]
 	path = r6methods
 	url = https://github.com/jakubsob/r6methods
