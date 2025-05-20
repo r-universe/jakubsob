@@ -1,8 +1,0 @@
-[
-  {
-    "package": "muttest",
-    "url": "https://github.com/jakubsob/muttest",
-    "via": ["cucumber"],
-    "from": "cucumber"
-  }
-]
